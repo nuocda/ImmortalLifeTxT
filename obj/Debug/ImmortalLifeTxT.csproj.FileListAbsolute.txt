@@ -1,6 +1,0 @@
-F:\vs2019pj\ImmortalLifeTxT\bin\Debug\ImmortalLifeTxT.dll
-F:\vs2019pj\ImmortalLifeTxT\bin\Debug\ImmortalLifeTxT.pdb
-F:\vs2019pj\ImmortalLifeTxT\obj\Debug\ImmortalLifeTxT.csproj.AssemblyReference.cache
-F:\vs2019pj\ImmortalLifeTxT\obj\Debug\ImmortalLifeTxT.csproj.CoreCompileInputs.cache
-F:\vs2019pj\ImmortalLifeTxT\obj\Debug\ImmortalLifeTxT.dll
-F:\vs2019pj\ImmortalLifeTxT\obj\Debug\ImmortalLifeTxT.pdb
